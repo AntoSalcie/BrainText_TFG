@@ -1,0 +1,32 @@
+EMAILS
+niceandsimple@example.com
+very.common@example.com
+a.little.lengthy.but.fine@dept.example.com
+disposable.style.email.with+symbol@example.com
+other.email-with-dash@example.com
+much.more unusual@example.com
+
+FECHAS
+31.12.3013
+01/01/2013
+5-3-2013
+15.03.2013
+
+NOMBRES 
+
+Pedro", "Luis", "Andrés", "Javier", "Jorge", "Alberto", "Manuel","Francisco", "Julio", "Nestor", "Josue", "Joshua", "Horacio", "Gonzalo","Lucas", "Hugo", "Andrés", "Angel", "Jorge", "Álvaro", "Leo","Alejandro", "Martín", "Danilo", "Daniel", "Leonel", "Adam", "Mohamed "
+"Ana", "Julia", "Noelia", "Berta", "Luisa", "Margarita", "Maria","Veronica", "Nicole", "Alba", "Emma ", "Yasmin", "Carol", "Perla","Carmen", "Mila", "Berta", "Paula", "Rocio", "Daniela","Sofía","Virginia"
+
+Tarjetas
+
+5105105105105100
+5555555555554444
+
+4012888888881881
+
+
+Tipologias
+
+["alegría", "bueno", "mejor", "perfecto", "genial", "conseguido", "feliz"];
+["maldad", "perdido", "triste", "nefasto", "crisis", "caos", "perdida"];
+
